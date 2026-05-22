@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "leaflet": "^1.9.4"
-  }
+  },
+  "name": "school-feedback-app",
+  "version": "1.0.0",
+  "description": "een app om feedback over de omgeving van jouw school op te halen",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juniepower/school-feedback-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juniepower/school-feedback-app/issues"
+  },
+  "homepage": "https://github.com/Juniepower/school-feedback-app#readme"
 }
